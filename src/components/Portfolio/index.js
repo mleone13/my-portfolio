@@ -1,7 +1,6 @@
 import React from 'react';
 // import coverImage from "../../assets/cover/cover-image.jpg";
 import ProjectCard from '../ProjectCard';
-// import pic6 from '../../assets/small/commercial/0.jpg';
 import pic5 from '../../assets/small/project-pics/5.jpg';
 import pic6 from '../../assets/small/project-pics/6.jpg';
 import pic7 from '../../assets/small/project-pics/7.jpg';
