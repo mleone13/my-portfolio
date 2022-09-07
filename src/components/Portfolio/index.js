@@ -4,6 +4,7 @@ import ProjectCard from '../ProjectCard';
 import pic5 from '../../assets/small/project-pics/5.jpg';
 import pic6 from '../../assets/small/project-pics/6.jpg';
 import pic7 from '../../assets/small/project-pics/7.jpg';
+import pic8 from '../../assets/small/8.png';
 
 function Portfolio() {
     const myProjects=[
@@ -32,14 +33,14 @@ function Portfolio() {
             gitHubUrl: 'https://the-kings-mile.herokuapp.com/',
             image:pic6,
         },
-        // {
-        //     id:4,
-        //     title:'P 4',
-        //     description: '',
-        //     deployedUrl: '',
-        //     gitHubUrl: '',
-        //     image:'',
-        // },
+        {
+            id:4,
+            title:'Plenty of Pups',
+            description: '',
+            deployedUrl: '',
+            gitHubUrl: 'https://github.com/mleone13/project-3',
+            image:pic8,
+        },
         // {
         //     id:5,
         //     title:'P 5',
